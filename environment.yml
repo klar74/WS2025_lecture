@@ -1,0 +1,7 @@
+name: lecture_env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+prefix: C:\Users\micha\miniconda3\envs\lecture_env
