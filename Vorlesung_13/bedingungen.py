@@ -1,6 +1,6 @@
-# Einfache Bedingung
 temperatur = 22
 
+# Einfache Bedingung
 if temperatur > 25:
     print("Heute ist es heiß!")
 elif temperatur > 15:
