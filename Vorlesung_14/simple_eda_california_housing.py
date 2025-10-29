@@ -139,7 +139,7 @@ def main():
     print("Siehe Aufgaben für Studenten am Ende der Datei.")
 
 # =============================================================================
-# AUFGABEN
+# ÜBUNGEN
 # =============================================================================
 # Erweitern Sie das Skript um die folgenden 5 Funktionen.
 # Implementieren Sie jede Funktion einzeln und testen Sie sie.
@@ -150,7 +150,7 @@ def main():
 # -----------------------------------------------------------------------------
 # Erstellen Sie eine Funktion 'analyze_house_age(df)':
 # - Histogramm des HouseAge Features erstellen
-# - Durchschnittliches und ältestes Gebäude in den Regionen finden
+# - Durchschnittliches und ältestes Gebäudealter in den Regionen finden
 # - Korrelation zwischen Gebäudealter und Preis berechnen
 #
 # Nützliche Funktionen:
